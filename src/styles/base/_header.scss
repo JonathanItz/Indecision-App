@@ -1,0 +1,21 @@
+$dark-purple: #20222B;
+$light-purple: #A5AFD7;
+
+header {
+    background-color: $dark-purple;
+    color: white;
+    overflow: hidden;
+    padding: 16px 0;
+
+    h1 {
+        font-size: 2rem;
+        margin-bottom: 3px;
+    }
+
+    h2 {
+        color: $light-purple;
+        font-size: 1rem;
+        font-weight: 500;
+        margin: 0;
+    }
+}
